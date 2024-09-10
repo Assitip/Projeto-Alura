@@ -4,7 +4,7 @@
 
 Essa aplicação muito simples, feita em uma das Imersões da Alura, te ajuda a encontrar o carro dos seus sonhos de forma rápida e fácil! Basta digitar o nome do carro que você procura e pronto! A mágica acontece. 
 
-**Como a magia acontece?** ‍♂️
+**Como a magia acontece?**
 
 1. **Você digita:** Escreve o nome do carro que te interessa na caixinha de pesquisa. 
 2. **A gente procura:** O computadorzinho inteligente varre toda a nossa base de dados de carros, procurando por aquele nome que você digitou.
